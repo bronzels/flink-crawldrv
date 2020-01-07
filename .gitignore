@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*.iml
+*.log
+logs
+target
+flink-crawldrv.properties
+flink-crawldrv.xml
+module_flink-crawldrv.xml
